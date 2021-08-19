@@ -1,7 +1,6 @@
 # Basic-Banking-System
 
-#Introduction
-The Sparks Foundation Internship Project - Basic Banking System
+The Sparks Foundation Internship Project - Basic Banking System <br>
 A web application used to transfer money between two users.
 
 # AIM
