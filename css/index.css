@@ -1,0 +1,72 @@
+.circle {
+    position: absolute;
+    border-radius: 50%;
+    width: 878px;
+    height: 878px;
+    left: -439px;
+    top: -446px;
+    background: rgba(255, 239, 99, 0.51);
+
+    z-index: -999;
+  }
+
+.home__flame {
+    position: absolute;
+    width: 169px;
+    height: 169px;
+    left: 38px;
+    top: 105px;
+}
+
+.home__logo {
+    position: absolute;
+width: 337px;
+height: 117px;
+left: 157px;
+top: 151px;
+}
+
+.slogan {
+position: absolute;
+
+left: 31vw;
+top: 242px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 42px;
+
+color: #000000;
+}
+
+.slogan__2 {
+position: absolute;
+left: 42.8vw;
+top: 275px;
+
+font-family: 'Roboto', sans-serif;
+font-style: italic;
+font-weight: 300;
+font-size: 18px;
+line-height: 28px;
+
+color: #000000;
+}
+
+.home__vault {
+position: absolute;
+width: 594px;
+height: 274px;
+left: 55.2vw;
+top: 165px;
+}
+
+.home_text {
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+}
