@@ -1,9 +1,10 @@
 # Basic-Banking-System
 
-The Sparks Foundation Internship Project - Basic Banking System <br>
-A web application used to transfer money between two users.
+## Introduction
+> The Sparks Foundation Internship Project - Basic Banking System <br>
+> A web application used to transfer money between two users.
 
-# AIM
+## AIM
 Create a simple dynamic website which has the following specs.</br>
  - Start with creating a dummy data in database for upto 10 customers.
    Database options: Mysql, Mongo, Postgres, etc. Customers table will
@@ -19,7 +20,7 @@ Create a simple dynamic website which has the following specs.</br>
 -  Host the website at 000webhost, github.io, heroku app or any other free
    hosting provider. Check in code in github.
 
-# Technologies Used
+## Technologies Used
 **FRONT END**: HTML, CSS, JavaScript, Bootstrap <br>
 **BACK END**: PHP <br>
 **DATABASE**: MySQL
